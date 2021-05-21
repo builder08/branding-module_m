@@ -24,6 +24,10 @@ if AXMULTITWIN
 SUBDIRS += ax5
 endif
 
+if MULTIBOX
+SUBDIRS += ax5
+endif
+
 if AXMULTICOMBO
 SUBDIRS += ax5
 endif
