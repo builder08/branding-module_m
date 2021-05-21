@@ -195,6 +195,7 @@ class RcModel:
 			"mediabox4k": "mediabox4k",
 			"megaforce1plus": "megasat2",
 			"megaforce2": "megasat1",
+			"multibox": "ax5",
 			"mutant11": "hd1100",
 			"mutant1100": "hd1100",
 			"mutant1200": "hd1100",
