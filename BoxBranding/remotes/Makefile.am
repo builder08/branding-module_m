@@ -613,7 +613,7 @@ SUBDIRS += anadol1
 endif
 
 if USTYM4KPRO
-SUBDIRS += uclan
+SUBDIRS += uclan sf8008 octagon1 vu
 endif
 
 if ULTRAV8PLUS
